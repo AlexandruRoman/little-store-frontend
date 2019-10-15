@@ -1,0 +1,15 @@
+.side-menu-layout{
+    .categories-menu{
+        a{
+            &.active{
+                color: #b8cd06;
+            }
+        }
+    }
+    .tag{
+        &.active{
+            background: #b8cd06;
+            color: white;
+        }
+    }
+}

@@ -1,0 +1,15 @@
+@import './_assets/bootstrap/css/bootstrap.css';
+@import './_assets/styles/bootstrap.extension.css';
+@import './_assets/styles/style.css';
+@import './_assets/styles/swiper.css';
+@import './_assets/styles/sumoselect.css';
+@import './_assets/styles/font-awesome.min.css';
+
+@import '~semantic-ui-css/semantic.css';
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
