@@ -49,6 +49,6 @@
     "@types/chart.js": "^2.7.52",
     "@types/jwt-decode": "^2.2.1",
     "@types/socket.io-client": "^1.4.32",
-    "node-sass": "^4.10.0"
+    "node-sass": "^7.0.0"
   }
 }
